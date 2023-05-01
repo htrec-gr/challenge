@@ -1,4 +1,5 @@
 # Error Correcting HTR’ed Byzantine Text
+This is the repository of the [HTREC challenge](https://www.aicrowd.com/challenges/htrec-2022). The 1st version of this repository was kindly developed by [@Connalia](https://github.com/Connalia/). 
 
 ## Dataset
 
