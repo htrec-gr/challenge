@@ -18,5 +18,6 @@ If you find our work useful to your research, please cite this work as:
     author = "John Pavlopoulos, Vasiliki Kougia, Paraskevi Platanou, Stepan
 Shabalin, Konstantina Liagkou, Emmanouil Papadatos, Holger Essler,
 Jean-Baptiste Camps, and Franz Fischer"
+    year = 2023
 }
 ```
