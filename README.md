@@ -2,7 +2,7 @@
 
 ## Dataset
 
-In the folder data, there are the dataset from the Challenge (train.csv,test.csv)
+In the folder data, there are the dataset, `train.csv` and `test.csv`, that include data from both original and synthetic (`original_test.csv` and `synthetic_test.csv`)
 
 ## Code
 
