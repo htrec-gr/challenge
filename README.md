@@ -1,5 +1,7 @@
 # Error Correcting HTR’ed Byzantine Text
-This is the repository of the [HTREC challenge](https://www.aicrowd.com/challenges/htrec-2022). The 1st version of this repository was kindly developed by [@Connalia](https://github.com/Connalia/). 
+This is the repository of the [HTREC challenge](https://www.aicrowd.com/challenges/htrec-2022). 
+
+The 1st version of this repository was kindly developed by [@Connalia](https://github.com/Connalia/). The HTR model, the train and the original test data were developed by [@vivianpl](https://github.com/vivianpl). The synthetic test data along with unlimited help with the organisation are attributed to [@vasilikikou](https://github.com/vasilikikou).
 
 ## Dataset
 
