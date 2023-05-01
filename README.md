@@ -8,8 +8,8 @@ The data folder comprises the dataset in the form of `train.csv` and `test.csv`,
 ## Code
 
 * An exploratory data analysis appears in `eda.ipynb`
-* The rule-based approach exists in `RuleBased.ipynb`, also described with pseudocode in `rbs_pseudocode.pdf`
-* The ByT5 approach exists in `Neural.ipynb`
+* The rule-based approach exists in `rbs.ipynb`, also described with pseudocode in `rbs_pseudocode.pdf`
+* The ByT5 approach exists in `neural.ipynb`
 
 ## Citation
 
