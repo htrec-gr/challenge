@@ -6,6 +6,7 @@ In the folder data, there are the dataset from the Challenge (train.csv,test.csv
 
 ## Code
 
+An exploratory data analysis in greek text appear in `eda.ipynb`and the rule based models in `RuleBased.ipynb`.
 
 ## Citation
 
