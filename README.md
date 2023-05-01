@@ -6,7 +6,7 @@ In the folder data, there are the dataset, `train.csv` and `test.csv`, that incl
 
 ## Code
 
-An exploratory data analysis in greek text appear in `eda.ipynb`and the rule based models in `RuleBased.ipynb`.
+An exploratory data analysis in greek text appear in `eda.ipynb`and the rule based models in `RuleBased.ipynb` that represent as pseudo code in the `htrec_pseudocode.pfd`.
 
 ## Citation
 
