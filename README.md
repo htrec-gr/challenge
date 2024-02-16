@@ -1,6 +1,6 @@
 # Challenging Error Correction in Recognised Byzantine Greek
 
-This is the repository of the article describing the shared task titled "Challenging Error Correction in Recognised Byzantine Greek". 
+This is the repository of [HTREC shared task](https://www.aicrowd.com/challenges/htrec-2022). The 1st version of this repository was kindly developed by [@Connalia](https://github.com/Connalia/). The HTR model, the train and the original test data were developed by [@vivianpl](https://github.com/vivianpl). The synthetic test data along with unlimited help with the organisation are attributed to [@vasilikikou](https://github.com/vasilikikou).
 
 ## Dataset
 
