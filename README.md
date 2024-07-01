@@ -34,7 +34,7 @@ For citing the HTREC challenge on error correction, please cite the following st
 ```
 @article{pavlopoulos-etal-2024-challenge,
   title={Challenging Error Correction in Recognised Byzantine Greek},
-  author={Pavlopoulos, John and Kougia, Vasiliki and Arias, Esteban Garces and Platanou, Paraskevi et al.},
+  author={Pavlopoulos, John and Kougia, Vasiliki and Arias, Esteban Garces and Platanou, Paraskevi and Shabalin, Stepan and Liagkou, Konstantina and Papadatos, Emmanouil and Essler, Holger and Camps, Jean-Baptiste and Franz Fischer},
   year={2024},
   publisher= "Association for Computational Linguistics",
   booktitle= "Proceedings of the first workshop on machine learning for ancient languages",
