@@ -30,13 +30,15 @@ For work on error detection, please cite the following study:
 }
 ```
 
-For citing the HTREC challenge on error correction, please cite the following study:
+For citing the HTREC challenge on error correction, please cite the following study ([here](https://doi.org/10.21203/rs.3.rs-2921088/v3) for a preprint):
 ```
 @article{pavlopoulos-etal-2024-challenge,
   title={Challenging Error Correction in Recognised Byzantine Greek},
   author={Pavlopoulos, John and Kougia, Vasiliki and Arias, Esteban Garces and Platanou, Paraskevi et al.},
   year={2024},
-  doi={https://doi.org/10.21203/rs.3.rs-2921088/v3}
-  journal={PREPRINT (Version 3) available at Research Square}
+  publisher= "Association for Computational Linguistics",
+  booktitle= "Proceedings of the first workshop on machine learning for ancient languages",
+  address = "Bangkok, Thailand",
+  month = "August"
 }
 ```
